@@ -5,7 +5,7 @@ A chrome extension that removes the newsfeed from facebook
 
 If you're like me, you're trying to become more intentional about what you do on the web.  Feedless Facebook is a chrome extension that removes the tempation to mindlessly scroll the facebook newsfeed.
 
-[Get it here](https://chrome.google.com/webstore/detail/dkkihkgglcnciamkeochpchahlegepif/publish-delayed)
+[Get it here](https://chrome.google.com/webstore/detail/dkkihkgglcnciamkeochpchahlegepif)
 
 ## Before
 
@@ -17,7 +17,7 @@ If you're like me, you're trying to become more intentional about what you do on
 
 ## Use it
 
-[Get it here](https://chrome.google.com/webstore/detail/dkkihkgglcnciamkeochpchahlegepif/publish-delayed)
+[Get it here](https://chrome.google.com/webstore/detail/dkkihkgglcnciamkeochpchahlegepif)
 
 
 <!-- Google Analytics --> 
