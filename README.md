@@ -23,6 +23,9 @@ If you're like me, you're trying to become more intentional about what you do on
 
 If you have any comments about this repo, my contact information is on [owocki.com](http://owocki.com/contact) or I am [@owocki on twitter](http://twitter.com/owocki).
 
+See Also
+* [FeedlessLinkedIn](https://github.com/owocki/feedlesslinkedin)
+
 
 <!-- Google Analytics --> 
 <img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/feedlessfacebook' style='width:1px; height:1px;' >
